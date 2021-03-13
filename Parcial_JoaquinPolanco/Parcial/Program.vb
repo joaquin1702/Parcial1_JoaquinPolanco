@@ -86,17 +86,7 @@ Module Module1
 
 
             Case 4
-                Dim num(14) As Integer
-                For i As Integer = 0 To num.Length - 1
-                    Console.WriteLine("Inserte Los Numeros Que Desea Saber Cual Es El Mayor Y El Menor " & i + 1)
-                    num(i) = Console.ReadLine
 
-                Next
-
-                Array.Sort(num)
-                Console.WriteLine("El Numero Mayor Es El Siguiente: " & num(num.Length - 1))
-                Console.WriteLine("El Numero Menor Es El Siguiente : " & num(0))
-                Console.ReadLine()
 
         End Select
 
