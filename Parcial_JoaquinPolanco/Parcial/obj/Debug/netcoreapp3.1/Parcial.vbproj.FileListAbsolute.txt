@@ -1,0 +1,13 @@
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\bin\Debug\netcoreapp3.1\Parcial.exe
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\bin\Debug\netcoreapp3.1\Parcial.deps.json
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.json
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.dev.json
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\bin\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\bin\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\obj\Debug\netcoreapp3.1\Parcial.vbprojAssemblyReference.cache
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfoInputs.cache
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfo.vb
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\obj\Debug\netcoreapp3.1\Parcial.vbproj.CoreCompileInputs.cache
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\obj\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\obj\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\joaqu\Documents\unicaes\Ciclo 1 2021\Programacion Orientada A Objetos 1\parcial1\Parcial_JoaquinPolanco\Parcial\obj\Debug\netcoreapp3.1\Parcial.genruntimeconfig.cache
